@@ -1,0 +1,20 @@
+{
+  "id": "packagekit",
+  "name": "packagekit",
+  "version": "0.0.1",
+  "minNoctaliaVersion": "3.6.0",
+  "author": "ayriru",
+  "license": "MIT",
+  "repository": "https://github.com/ayriru/noctalia-plugins",
+  "description": "A simple example plugin",
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {}
+  }
+}
