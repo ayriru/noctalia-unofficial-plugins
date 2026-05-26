@@ -20,6 +20,12 @@ Item {
     id: panelContainer
     anchors.fill: parent
     color: "transparent"
+    NText {
+      anchors.centerIn: parent
+      text: "This is a panel"
+      color: Color.mOnSurface
+      pointSize: Style.fontSizeM
+    }
 
   }
 }
