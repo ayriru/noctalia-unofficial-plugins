@@ -5,11 +5,12 @@
   "minNoctaliaVersion": "3.6.0",
   "author": "ayriru",
   "license": "MIT",
-  "repository": "https://github.com/ayriru/noctalia-plugins",
+  "repository": "https://github.com/ayriru/noctalia-unofficial-plugins",
   "description": "A simple example plugin",
   "entryPoints": {
     "main": "Main.qml",
-    "barWidget": "BarWidget.qml"
+    "barWidget": "BarWidget.qml",
+    "panelWidget": "PanelWidget.qml"
   },
   "dependencies": {
     "plugins": []
