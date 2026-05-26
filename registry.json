@@ -1,17 +1,25 @@
 {
-    "version": "1.0.0",
-    "plugins": [
-        {
-            "id": "packagekit",
-            "name": "packagekit",
-            "version": "0.0.1",
-            "minNoctaliaVersion": "3.6.0",
-            "author": "ayriru",
-            "license": "MIT",
-            "repository": "https://github.com/ayriru/noctalia-unofficial-plugins",
-            "description": "A simple example plugin",
-            "tags": ["Bar", "Desktop", "Panel", "Launcher", "System", "Utility"],
-            "lastUpdated": "2024-06-01T12:00:00Z"
-        }
-    ]       
+  "version": 1,
+  "plugins": [
+    {
+      "id": "packagekit",
+      "name": "packagekit",
+      "version": "0.0.1",
+      "official": false,
+      "author": "ayriru",
+      "description": "A simple example plugin",
+      "repository": "https://github.com/ayriru/noctalia-unofficial-plugins",
+      "minNoctaliaVersion": "3.6.0",
+      "license": "MIT",
+      "tags": [
+        "Bar",
+        "Desktop",
+        "Panel",
+        "Launcher",
+        "System",
+        "Utility"
+      ],
+      "lastUpdated": "2026-05-26T22:59:26+08:00"
+    }
+  ]
 }
