@@ -4,7 +4,7 @@
     {
       "id": "packagekit",
       "name": "packagekit",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "official": false,
       "author": "ayriru",
       "description": "A simple example plugin",
@@ -19,7 +19,7 @@
         "System",
         "Utility"
       ],
-      "lastUpdated": "2026-05-26T22:59:26+08:00"
+      "lastUpdated": "2026-05-26T23:16:08+08:00"
     }
   ]
 }
