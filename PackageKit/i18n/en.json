@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "refresh": "Refresh",
+        "settings": "Settings"
+    },
+    "tooltip": {
+        "widgetTooltip": "Check system updates"
+    },
+    "panelTitle": "System Updates",
+    "updates": "updates",
+    "upToDate": "Up to date",
+    "upToDateMessage": "Your system is up to date",
+    "checking": "Checking for updates...",
+    "updatesAvailable": "update(s) available",
+    "updateAll": "Update All"
+}
